@@ -1,0 +1,28 @@
+{
+  "name": "@leismore/contact_us",
+  "version": "0.1.0",
+  "description": "A RESTFul API written by Node.js, providing Contact-us service for a company.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leismore/contact_us.git"
+  },
+  "keywords": [
+    "Contact",
+    "Contact",
+    "us",
+    "Node.js",
+    "Customer",
+    "Support",
+    "Business"
+  ],
+  "author": "Winfred K. Qin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leismore/contact_us/issues"
+  },
+  "homepage": "https://github.com/leismore/contact_us#readme"
+}
