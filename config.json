@@ -1,0 +1,21 @@
+{
+  "app":
+  {
+    "projectName": "contact_us",
+    "host":        "localhost",
+    "port":        "YOUR_HOST_PORT",
+    "backlog":      511
+  },
+
+  "emailSender":
+  {
+    "name":    "SENDER_NAME",
+    "address": "SENDER_EMAIL"
+  },
+
+  "emailReceiver":
+  {
+    "name":    "RECEIVER_NAME",
+    "address": "RECEIVER_EMAIL"
+  }
+}
